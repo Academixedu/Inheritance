@@ -1,1 +1,20 @@
+//output for InterFaceTest.java
+Give dosa with chicken curry: false
+dosa is for 4 members
+price of dosa is 80
+Give parotta with chicken curry: true
+parotta is for 2 members
+price of parotta is 160
+Give dosa with chicken curry: false
+dosa is for 3 members
+price of dosa is 90
+good taste :false
 
+
+//output for ClassTest.java
+food:100 units
+The price of FriedRice is 500 units
+Noodles is for 5 members
+The price of noodles is 450 units
+Make Chicken fried rice: true
+The price of FriedRice is 120 units

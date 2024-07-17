@@ -1,9 +1,9 @@
 class Food{
     void choice1(){
-        System.out.println("Idly");
+        System.out.println("I want Idly");
     }
     void choice2(){
-        System.out.println("Dosa");
+        System.out.println("I want Dosa");
     }
 }
 
